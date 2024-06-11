@@ -18,9 +18,9 @@
                 <div class="left-side">
                     <div class="ticket-info">
                         <p class="ticket-number">N° <?php echo $i; ?></p>
-                        <p>Nome: <input type="text" name="name<?php echo $i; ?>" placeholder="Seu nome"></p>
-                        <p>Telefone: <input type="text" name="phone<?php echo $i; ?>" placeholder="Seu telefone"></p>
-                        <p>Email: <input type="email" name="email<?php echo $i; ?>" placeholder="Seu email"></p>
+                        <p>Nome: <input type="text" name="name<?php echo $i; ?>" placeholder=""></p>
+                        <p>Telefone: <input type="text" name="phone<?php echo $i; ?>" placeholder=""></p>
+                        <p>Email: <input type="email" name="email<?php echo $i; ?>" placeholder=""></p>
                     </div>
                 </div>
                 <div class="dashed-divider"></div>
